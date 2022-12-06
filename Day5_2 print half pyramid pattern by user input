@@ -1,0 +1,13 @@
+Import java.util.*;
+public class Pyramid{
+public static void main (String args[]){
+Scanner sc= new Scanner (System.in);
+Int n = sc.nectInt():
+for(int i=1; i<=ni++){
+For (int num =1; nhm<=i; num++){
+System.out.print(num+" ");
+}
+System.out.println();
+}
+}
+}
